@@ -1,2 +1,2 @@
 # Digitalent2019
-Materi pelatihan machine learning dari Digitalent dengan mitra pengajar berasal dari Universitas Islam Indonesia.
+Materi ini saya dapatkan dari mengikuti pelatihan Digital Talent Scholarship 2019 dengan tema Machine Learning yang diselenggarakan oleh Kominfo dengan mitra pengajar dari Universitas Islam Indonesia. Di dalam materi ini terdapat hands-on berupa teori dalam bentuk power point dan praktek/lab dalam bentuk python notebook. Semoga apa yang saya pelajari dan dapatkan selama mengikuti pelatihan tersebut dapat membantu anda dalam mempelajari ataupun membantu dalam menyelesaikan masalah mengenai machine learning.
